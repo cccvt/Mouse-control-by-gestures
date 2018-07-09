@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'palm'
+}
+
+item {
+  id: 2
+  name: 'fist'
+}
+
+item {
+  id: 3
+  name: '1finger'
+}
+
+item {
+  id: 4
+  name: '2fingers'
+}
+
+item {
+  id: 5
+  name: '3fingers'
+}
